@@ -1,7 +1,7 @@
 <!-- Paste at the very top of README.md. Click the animation to open the full-size crisp version. -->
 <p align="center">
   <a href="LOGO/logo-3d-hires.png">
-    <img src="LOGO/logo-3d-spin.png" alt="MMP 3D Logo" width="340"/>
+    <img src="https://github.com/Devputta/LOGO/blob/main/logo-3d-spin%20(1).png" alt="MMP 3D Logo" width="340"/>
   </a>
 </p>
 
